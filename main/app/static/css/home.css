@@ -1,0 +1,10 @@
+body {
+    background-color: #f0f8ff; 
+    margin: 0;
+    padding: 0;
+}
+.icon {
+    background-color: #f0f8ff;
+    border: 5px #f0f8ff;
+    border-radius: 5% solid #f0f8ff;   
+}
